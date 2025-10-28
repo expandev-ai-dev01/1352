@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Brasil",
+    "capital": "Brasília",
+    "difficulty": "fácil",
+    "curiosity": "Brasília foi inaugurada em 21 de abril de 1960 e é a única cidade construída no século XX a ser considerada Patrimônio Cultural da Humanidade pela UNESCO."
+  },
+  {
+    "country": "Argentina",
+    "capital": "Buenos Aires",
+    "difficulty": "fácil",
+    "curiosity": "Buenos Aires é conhecida como a 'Paris da América do Sul' devido à sua arquitetura europeia e vida cultural vibrante."
+  },
+  {
+    "country": "Estados Unidos",
+    "capital": "Washington D.C.",
+    "difficulty": "fácil",
+    "curiosity": "Washington D.C. não faz parte de nenhum estado americano, sendo um distrito federal criado especificamente para ser a capital do país."
+  },
+  {
+    "country": "França",
+    "capital": "Paris",
+    "difficulty": "fácil",
+    "curiosity": "Paris é conhecida como a 'Cidade Luz' porque foi uma das primeiras cidades europeias a adotar iluminação pública em larga escala."
+  },
+  {
+    "country": "Japão",
+    "capital": "Tóquio",
+    "difficulty": "fácil",
+    "curiosity": "Tóquio é a área metropolitana mais populosa do mundo, com mais de 37 milhões de habitantes."
+  },
+  {
+    "country": "Reino Unido",
+    "capital": "Londres",
+    "difficulty": "fácil",
+    "curiosity": "Londres tem mais de 170 museus, incluindo o Museu Britânico que abriga mais de 8 milhões de objetos."
+  },
+  {
+    "country": "Alemanha",
+    "capital": "Berlim",
+    "difficulty": "fácil",
+    "curiosity": "Berlim tem mais pontes do que Veneza, com aproximadamente 960 pontes atravessando seus canais e rios."
+  },
+  {
+    "country": "Itália",
+    "capital": "Roma",
+    "difficulty": "fácil",
+    "curiosity": "Roma é conhecida como a 'Cidade Eterna' e foi fundada em 753 a.C., sendo uma das cidades continuamente habitadas mais antigas da Europa."
+  },
+  {
+    "country": "Espanha",
+    "capital": "Madri",
+    "difficulty": "fácil",
+    "curiosity": "Madri é a capital europeia com maior altitude, situada a 667 metros acima do nível do mar."
+  },
+  {
+    "country": "China",
+    "capital": "Pequim",
+    "difficulty": "fácil",
+    "curiosity": "Pequim abriga a Cidade Proibida, o maior complexo de palácios antigos do mundo, com 980 edifícios."
+  },
+  {
+    "country": "Canadá",
+    "capital": "Ottawa",
+    "difficulty": "médio",
+    "curiosity": "Ottawa tem o canal Rideau, que se transforma na maior pista de patinação no gelo do mundo durante o inverno."
+  },
+  {
+    "country": "Austrália",
+    "capital": "Camberra",
+    "difficulty": "médio",
+    "curiosity": "Camberra foi planejada pelo arquiteto americano Walter Burley Griffin e é uma das poucas cidades planejadas do mundo."
+  },
+  {
+    "country": "México",
+    "capital": "Cidade do México",
+    "difficulty": "médio",
+    "curiosity": "A Cidade do México foi construída sobre as ruínas de Tenochtitlán, a antiga capital asteca."
+  },
+  {
+    "country": "Índia",
+    "capital": "Nova Délhi",
+    "difficulty": "médio",
+    "curiosity": "Nova Délhi foi projetada pelo arquiteto britânico Edwin Lutyens e inaugurada como capital em 1931."
+  },
+  {
+    "country": "Rússia",
+    "capital": "Moscou",
+    "difficulty": "médio",
+    "curiosity": "O metrô de Moscou é famoso por suas estações ornamentadas, consideradas verdadeiros palácios subterrâneos."
+  },
+  {
+    "country": "África do Sul",
+    "capital": "Pretória",
+    "difficulty": "médio",
+    "curiosity": "A África do Sul é o único país do mundo com três capitais: Pretória (executiva), Cidade do Cabo (legislativa) e Bloemfontein (judiciária)."
+  },
+  {
+    "country": "Egito",
+    "capital": "Cairo",
+    "difficulty": "médio",
+    "curiosity": "O Cairo é a maior cidade do mundo árabe e da África, com mais de 20 milhões de habitantes em sua área metropolitana."
+  },
+  {
+    "country": "Turquia",
+    "capital": "Ancara",
+    "difficulty": "médio",
+    "curiosity": "Ancara se tornou a capital da Turquia em 1923, substituindo Istambul após a fundação da República Turca."
+  },
+  {
+    "country": "Coreia do Sul",
+    "capital": "Seul",
+    "difficulty": "médio",
+    "curiosity": "Seul é uma das cidades mais tecnologicamente avançadas do mundo, com internet de alta velocidade disponível em praticamente todos os lugares."
+  },
+  {
+    "country": "Polônia",
+    "capital": "Varsóvia",
+    "difficulty": "médio",
+    "curiosity": "Varsóvia foi quase completamente destruída durante a Segunda Guerra Mundial e foi reconstruída fielmente ao seu estado original."
+  },
+  {
+    "country": "Cazaquistão",
+    "capital": "Astana",
+    "difficulty": "difícil",
+    "curiosity": "Astana (agora chamada Nur-Sultan) é uma das capitais mais jovens do mundo, tendo se tornado capital em 1997."
+  },
+  {
+    "country": "Mongólia",
+    "capital": "Ulaanbaatar",
+    "difficulty": "difícil",
+    "curiosity": "Ulaanbaatar é a capital mais fria do mundo, com temperaturas médias de inverno chegando a -40°C."
+  },
+  {
+    "country": "Mianmar",
+    "capital": "Naypyidaw",
+    "difficulty": "difícil",
+    "curiosity": "Naypyidaw foi construída do zero e se tornou a capital de Mianmar em 2006, sendo uma das capitais mais planejadas e menos populosas do mundo."
+  },
+  {
+    "country": "Quirguistão",
+    "capital": "Bisqueque",
+    "difficulty": "difícil",
+    "curiosity": "Bisqueque está situada aos pés das montanhas Tian Shan, a cerca de 800 metros de altitude."
+  },
+  {
+    "country": "Butão",
+    "capital": "Timphu",
+    "difficulty": "difícil",
+    "curiosity": "Timphu é a única capital do mundo sem semáforos, onde policiais controlam o trânsito manualmente."
+  },
+  {
+    "country": "Eritreia",
+    "capital": "Asmara",
+    "difficulty": "difícil",
+    "curiosity": "Asmara é conhecida como 'Piccola Roma' (Pequena Roma) devido à sua arquitetura art déco italiana bem preservada."
+  },
+  {
+    "country": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "difficulty": "difícil",
+    "curiosity": "Ouagadougou é o centro cultural de Burkina Faso e sede do maior festival de cinema africano, o FESPACO."
+  },
+  {
+    "country": "Tadjiquistão",
+    "capital": "Duchambe",
+    "difficulty": "difícil",
+    "curiosity": "Duchambe significa 'segunda-feira' em tadjique, pois a cidade cresceu ao redor de um mercado que funcionava às segundas-feiras."
+  },
+  {
+    "country": "Turcomenistão",
+    "capital": "Asgabate",
+    "difficulty": "difícil",
+    "curiosity": "Asgabate detém o recorde mundial do Guinness pela maior concentração de edifícios de mármore branco."
+  },
+  {
+    "country": "Palau",
+    "capital": "Ngerulmud",
+    "difficulty": "difícil",
+    "curiosity": "Ngerulmud é uma das menores capitais do mundo, com apenas cerca de 400 habitantes."
+  }
+]

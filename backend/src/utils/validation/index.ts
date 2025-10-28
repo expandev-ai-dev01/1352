@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { DIFFICULTY_LEVELS, QUESTION_QUANTITIES } from '@/constants/quiz';
 
 /**
  * @summary
@@ -71,6 +72,27 @@ export const zUUID = z.string().uuid();
  * @summary URL validation
  */
 export const zURL = z.string().url();
+
+/**
+ * @summary Difficulty level validation
+ */
+export const zDifficultyLevel = z.enum([
+  DIFFICULTY_LEVELS.EASY,
+  DIFFICULTY_LEVELS.MEDIUM,
+  DIFFICULTY_LEVELS.HARD,
+]);
+
+/**
+ * @summary Question quantity validation
+ */
+export const zQuestionQuantity = z
+  .number()
+  .int()
+  .refine((val) => QUESTION_QUANTITIES.includes(val as any), {
+    message: `Quantidade de perguntas deve ser uma das seguintes: ${QUESTION_QUANTITIES.join(
+      ', '
+    )}`,
+  });
 
 /**
  * @summary Validate required parameter

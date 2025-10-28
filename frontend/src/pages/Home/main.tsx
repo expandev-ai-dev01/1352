@@ -15,7 +15,7 @@ import { useNavigate } from 'react-router-dom';
  *
  * @description
  * Landing page that introduces the quiz application and provides
- * navigation to start the quiz.
+ * navigation to start the quiz or view history.
  */
 export const HomePage = () => {
   const navigate = useNavigate();
@@ -39,10 +39,10 @@ export const HomePage = () => {
           </button>
 
           <button
-            onClick={() => navigate('/about')}
+            onClick={() => navigate('/history')}
             className="px-8 py-3 bg-gray-200 text-gray-900 rounded-lg font-medium hover:bg-gray-300 transition-colors"
           >
-            Sobre o Quiz
+            Ver Histórico
           </button>
         </div>
       </div>
